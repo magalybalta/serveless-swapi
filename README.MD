@@ -4,7 +4,7 @@ Cuenta AWS
 
 Configurar AWS CLI
 
-Node.js
+Serverless Framework
 
 ### Instalar Aplicacion
 
