@@ -12,16 +12,6 @@ const list9 = async (event, context, callback) => {
   };
 
   callback(null, response);
-  /*const response = {};
-
-  await getStarShip().then(result => {
-    response = {
-      statusCode: 200,
-      data: JSON.stringify(result) 
-    };
-  }).catch(result => { response = { err: result } });
-
-  return response;*/
 };
 
 const create = (event, context, callback) => {
