@@ -1,0 +1,28 @@
+{
+  "name": "serveless-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magalybalta/Serveless-API.git"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "moment": "^2.27.0",
+    "aws-sdk": "^2.205.0",
+    "uuid": "^3.2.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magalybalta/Serveless-API/issues"
+  },
+  "homepage": "https://github.com/magalybalta/Serveless-API#readme",
+  "devDependencies": {
+    "serverless-plugin-include-dependencies": "^4.1.0"
+  }
+}
